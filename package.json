@@ -1,14 +1,16 @@
 {
   "name": "fcc-backend",
-  "version": "1.0.0",
+  "author": "Kun Aldi Indarto",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "node app"
   },
-  "author": "Kun Aldi Indarto",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3"
-  }
+  "repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
